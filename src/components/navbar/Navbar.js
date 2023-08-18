@@ -30,7 +30,7 @@ function Navbar() {
   }
   return (
     <div className="Navbar">
-      <div className="container">
+      <div className="containers">
         <h2 className="banner hover-link" onClick={() => navigate("/")}>
           Social Media
         </h2>
